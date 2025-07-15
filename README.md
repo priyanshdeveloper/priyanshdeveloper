@@ -31,12 +31,12 @@ experience:
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=aakashdeep8530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" 
+    src="https://github-readme-stats.vercel.app/api?username=priyanshdeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" 
     alt="GitHub Stats" 
     style="width: 47%; min-width: 250px;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdeveloper&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" 
     alt="GitHub Streak" 
     style="width: 47%; min-width: 250px;"
   />
@@ -45,7 +45,7 @@ experience:
 ---
 
 <div align="">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshdeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
 </div>
 
 ## 💻 Tech Stack & Expertise
@@ -216,11 +216,11 @@ experience:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashdeep8530&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&area_color=667eea" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshdeveloper&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&area_color=667eea" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeep8530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshdeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ## 🎯 Current Focus & Expertise
@@ -247,7 +247,7 @@ experience:
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/aakashdeep8530/">
+  <a href="https://www.linkedin.com/in/priyanshdeveloper/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aakashdeepsingh69146@gmail.com">
@@ -256,7 +256,7 @@ experience:
   <a href="https://aakashdeep-singh.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aakashdeep8530&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshdeveloper&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
