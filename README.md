@@ -29,7 +29,6 @@ experience:
   - "Strong grasp of React.js, GSAP, Three.js"
   - "Developed 8+ real-world projects"
 ```
-
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -61,20 +60,28 @@ experience:
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" width="80" height="80" alt="C" />
+        <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" width="100" height="100" alt="C" />
         <br><strong>C</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="80" height="80" alt="C#">
+        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="100" height="100" alt="C#">
         <br><strong>C#</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf"  width="80" height="80" alt="C#">
+        <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf"  width="100" height="100" alt="C#">
         <br><strong>HTML5</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2"  width="80" height="80" alt="C#">
+        <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2"  width="100" height="100" alt="C#">
         <br><strong>CSS3</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953"  width="100" height="100" alt="C#">
+        <br><strong>JavaScript</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69"  width="100" height="100" alt="C#">
+        <br><strong>React</strong>
       </td>
         </tr>
   </table>
