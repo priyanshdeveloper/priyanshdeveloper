@@ -54,48 +54,91 @@ experience:
 
 <div align="center">
   <table>
+ <style>
+  .skill-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+
+  .skill-td {
+    width: 160px;
+    height: 200px;
+    text-align: center;
+    vertical-align: top;
+    background-color: #111;
+    border: 1px solid #333;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .skill-img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+    background-color: white;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  }
+
+  .skill-label {
+    margin-top: 8px;
+    display: block;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  body {
+    background-color: #000; /* Just to enhance contrast */
+    font-family: sans-serif;
+  }
+</style>
+
+<table class="skill-table">
   <tr>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" style="width: 150px; height: 150px;" alt="C" />
-    <br><strong>C</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121" style="width: 150px; height: 150px;" alt="C#" />
-    <br><strong>C#</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf" style="width: 150px; height: 150px;" alt="HTML" />
-    <br><strong>HTML5</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2" style="width: 150px; height: 150px;" alt="CSS" />
-    <br><strong>CSS3</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953" style="width: 150px; height: 150px;" alt="JavaScript" />
-    <br><strong>JavaScript</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69" style="width: 150px; height: 150px;" alt="React" />
-    <br><strong>React</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9" style="width: 150px; height: 150px;" alt="Three" />
-    <br><strong>React + Three Fiber</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" style="width: 150px; height: 150px;" alt="GSAP" />
-    <br><strong>GSAP</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" style="width: 150px; height: 150px;" alt="API" />
-    <br><strong>API Integration</strong>
-  </td>
-  <td align="center" width="150">
-    <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" style="width: 150px; height: 150px;" alt="Wordpress" />
-    <br><strong>Wordpress</strong>
-  </td>
-</tr>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" class="skill-img" alt="C">
+      <span class="skill-label">C</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121" class="skill-img" alt="C#">
+      <span class="skill-label">C#</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf" class="skill-img" alt="HTML">
+      <span class="skill-label">HTML5</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2" class="skill-img" alt="CSS">
+      <span class="skill-label">CSS3</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953" class="skill-img" alt="JavaScript">
+      <span class="skill-label">JavaScript</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69" class="skill-img" alt="React">
+      <span class="skill-label">React</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9" class="skill-img" alt="Three">
+      <span class="skill-label">React + Three Fiber</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" class="skill-img" alt="GSAP">
+      <span class="skill-label">GSAP</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" class="skill-img" alt="API">
+      <span class="skill-label">API Integration</span>
+    </td>
+    <td class="skill-td">
+      <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" class="skill-img" alt="Wordpress">
+      <span class="skill-label">Wordpress</span>
+    </td>
+  </tr>
+</table>
   </table>
 </div>
 
