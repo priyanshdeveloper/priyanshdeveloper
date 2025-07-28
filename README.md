@@ -64,31 +64,7 @@ experience:
         <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" height="50" alt="Linux"/>
         <br><strong>Linux</strong>
       </td>
-      <td align="center" width="100">
-        <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="50" height="50" alt="Windows"/>
-        <br><strong>Windows</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="50" height="50" alt="AWS"/>
-        <br><strong>AWS</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://iamops.io/wp-content/uploads/2024/06/Azure.svg" width="50" height="50" alt="Azure"/>
-        <br><strong>Azure</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" width="50" height="50" alt="Bash/Shell"/>
-        <br><strong>Bash/Shell</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://assets.exercism.org/tracks/yamlscript.svg" width="50" height="50" alt="YAML"/>
-        <br><strong>YAML</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
-        <br><strong>Docker</strong>
-      </td>
-    </tr>
+        </tr>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="50" height="50" alt="Kubernetes"/>
