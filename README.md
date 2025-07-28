@@ -68,6 +68,14 @@ experience:
         <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="80" height="80" alt="C#">
         <br><strong>C#</strong>
       </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf"  width="80" height="80" alt="C#">
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2"  width="80" height="80" alt="C#">
+        <br><strong>CSS3</strong>
+      </td>
         </tr>
   </table>
 </div>
