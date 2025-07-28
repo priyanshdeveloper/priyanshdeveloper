@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="1280" height="420" alt="image" src="https://github.com/user-attachments/assets/e91067ca-5121-4325-9471-bec34e5e9630" />
+  <img width="1280" height="420" alt="image" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Web%20Developer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Frontend%20Development%20%7C%20UI%2FUX%20%7C%20Responsive%20Design%20%7C%20React.js&descAlignY=55&descSize=20
+" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Web+Developer;Frontend+Developer;React+Developer;Priyanshu+Sharma" />
 </div>
