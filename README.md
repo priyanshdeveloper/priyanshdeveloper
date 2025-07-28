@@ -13,7 +13,7 @@
 <div align="">
 
 ```yaml
-name: "Aakashdeep Singh"
+name: "Priyanshu Sharma"
 location: "Surat, Gujarat"
 current_focus: 
   - "Infrastructure as Code & Automation"
