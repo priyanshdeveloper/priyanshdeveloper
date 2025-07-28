@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="1280" height="420" alt="image" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Web%20Developer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Frontend%20Development%20%7C%20UI%2FUX%20%7C%20Responsive%20Design%20%7C%20React.js&descAlignY=55&descSize=20
-" />
+  <img width="1280" height="420" alt="image" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DevOps%20Engineer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20%7C%20Automation%20%7C%20Monitoring%20%7C%20Scalability&descAlignY=55&descSize=20" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Web+Developer;Frontend+Developer;React+Developer;Priyanshu+Sharma" />
 </div>
