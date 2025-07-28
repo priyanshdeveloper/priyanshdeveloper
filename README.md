@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!--   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> -->
+  <img width="1080" height="592" alt="image" src="https://github.com/user-attachments/assets/09923e10-2fb4-4734-982d-9efb10afabaa" />
+<img width="1080" height="592" alt="image" src="https://github.com/user-attachments/assets/09923e10-2fb4-4734-982d-9efb10afabaa" />
 </div>
 
 <!-- <div align="center">
@@ -9,7 +9,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github.com/user-attachments/assets/09923e10-2fb4-4734-982d-9efb10afabaa" width="100%">
 </div>
 
 ## 🚀 About Me
