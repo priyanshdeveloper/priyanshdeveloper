@@ -54,15 +54,15 @@ experience:
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/559475df-89b3-41b5-a0a1-9a70567cb5da" width="225" height="224" alt="C#" />
-" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" height="50" alt="Linux"/>
+        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="225" height="224" alt="C#" />
+" width="50" height="50" alt="C#"/>
         <br><strong>Linux</strong>
       </td>
         </tr>
