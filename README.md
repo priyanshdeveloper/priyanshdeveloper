@@ -126,12 +126,14 @@ experience:
 </div>
 
 ### 💡 Key Strengths
-- **Infrastructure Automation**: Expertise in Terraform, Ansible, and CloudFormation
-- **Container Orchestration**: Advanced Kubernetes management and optimization
-- **CI/CD Excellence**: Building robust, scalable deployment pipelines
-- **Cloud Architecture**: Multi-cloud solutions with AWS and Azure
-- **Monitoring & Observability**: Comprehensive system monitoring and alerting
-- **Security First**: Implementing security best practices across all layers
+
+- **Frontend Development**: Proficient in React.js, JavaScript (ES6+), HTML5, CSS3, and modern UI frameworks like Bootstrap and Tailwind CSS  
+- **UI/UX & Animation**: Expertise in responsive design, GSAP animations, scroll-based interactivity, and Three.js for immersive user experiences  
+- **API Integration**: Skilled in connecting RESTful APIs with robust error handling, authentication, and data-driven UI logic  
+- **Component Architecture**: Experienced in building modular, reusable, and scalable React components for real-world applications  
+- **Version Control & Team Workflow**: Comfortable with Git/GitHub workflows, code reviews, and agile collaboration  
+- **Project Delivery**: Hands-on experience with dashboards, job portals, admin panels, animated landing pages, and e-commerce UIs  
+
 
 ## 📫 Let's Connect & Collaborate
 
