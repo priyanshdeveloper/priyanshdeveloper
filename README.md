@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5a6f44ff-8317-432d-ac7e-ddba2dcf8578" />
+  <img width="1280" height="420" alt="image" src="https://github.com/user-attachments/assets/e91067ca-5121-4325-9471-bec34e5e9630" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Web+Developer;Frontend+Developer;React+Developer;Priyanshu+Sharma" />
 </div>
