@@ -53,50 +53,52 @@ experience:
 </div>
 
 <div align="center">
-  <table>
+ <table align="center">
   <tr>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" alt="C" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>C</strong>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" alt="C" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">C</span>
     </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121" alt="C#" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>C#</strong>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121" alt="C#" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">C#</span>
     </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf" alt="HTML" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>HTML5</strong>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf" alt="HTML5" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">HTML5</span>
     </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2" alt="CSS" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>CSS3</strong>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2" alt="CSS3" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">CSS3</span>
     </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953" alt="JavaScript" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69" alt="React" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9" alt="Three" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>React + Three Fiber</strong>
-    </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" alt="GSAP" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>GSAP</strong>
-    </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" alt="API" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>API Integration</strong>
-    </td>
-    <td align="center" width="160" style="padding:10px;">
-      <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" alt="Wordpress" style="width:150px;height:150px;object-fit:contain;background:#fff;padding:8px;border-radius:10px;" />
-      <br><strong>Wordpress</strong>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953" alt="JavaScript" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">JavaScript</span>
     </td>
   </tr>
-  </table>
+  <tr>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69" alt="React" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">React</span>
+    </td>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9" alt="ThreeJS" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">React + Three Fiber</span>
+    </td>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" alt="GSAP" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">GSAP</span>
+    </td>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" alt="API" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">API Integration</span>
+    </td>
+    <td align="center" width="160" style="padding:12px; background:#1e1e1e; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.5); margin:10px;">
+      <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" alt="WordPress" style="width:100px; height:100px; object-fit:contain; background:#fff; padding:10px; border-radius:10px;" />
+      <br><span style="color:white; font-weight:bold;">Wordpress</span>
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
