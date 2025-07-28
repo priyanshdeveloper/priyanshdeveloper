@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8096929-2d8b-439c-9d06-90faf46b64ee" />
+<!--   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a8096929-2d8b-439c-9d06-90faf46b64ee" /> -->
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Web+Developer;Automation+%26+CI%2FCD+Expert;Container+Orchestration;Infrastructure+as+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Web+Developer;Frontend+Developer;React+Developer;Priyanshu+Sharma" />
 </div>
 
 <div align="center">
