@@ -83,6 +83,10 @@ experience:
         <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69"  width="100" height="100" alt="C#">
         <br><strong>React</strong>
       </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/d96943cb-8896-436d-8c9f-bf2eb56da875"  width="100" height="100" alt="C#">
+        <br><strong>React + Three Fiber</strong>
+      </td>
         </tr>
   </table>
 </div>
