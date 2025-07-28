@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DevOps%20Engineer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20%7C%20Automation%20%7C%20Monitoring%20%7C%20Scalability&descAlignY=55&descSize=20" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Cloud+Infrastructure+Specialist;Automation+%26+CI%2FCD+Expert;Container+Orchestration;Infrastructure+as+Code" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <!-- <div align="center">
