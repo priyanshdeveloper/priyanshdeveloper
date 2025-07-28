@@ -139,13 +139,13 @@ experience:
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/priyanshdeveloper/">
+  <a href="https://www.linkedin.com/in/priyansh-khandelwal-72177533b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aakashdeepsingh69146@gmail.com">
+  <a href="mailto:priyanshkhandelwal835@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aakashdeep-singh.netlify.app/">
+  <a href="https://priyansh-web.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=priyanshdeveloper&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
