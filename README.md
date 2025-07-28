@@ -4,13 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Cloud+Infrastructure+Specialist;Automation+%26+CI%2FCD+Expert;Container+Orchestration;Infrastructure+as+Code" />
 </div>
 
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div> -->
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/09923e10-2fb4-4734-982d-9efb10afabaa" width="100%">
-</div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div> 
 
 ## 🚀 About Me
 
