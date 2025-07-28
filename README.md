@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Cloud+Infrastructure+Specialist;Automation+%26+CI%2FCD+Expert;Container+Orchestration;Infrastructure+as+Code" />
 </div>
 
+<!-- <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div> -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -16,15 +20,14 @@
 name: "Priyanshu Sharma"
 location: "Surat, Gujarat"
 current_focus: 
-  - "Infrastructure as Code & Automation"
-  - "Container Orchestration & Kubernetes"
-  - "CI/CD Pipeline Optimization"
-  - "Cloud Architecture & Security"
-  - "Monitoring & Observability"
+  - "Frontend Development with React"
+  - "UI/UX Animation and Interaction Design"
+  - "Responsive Web Apps"
+  - "Integrating APIs and Component Architecture"
 experience:
-  - "1+ years in DevOps & Cloud Engineering"
-  - "Multi-cloud expertise (AWS, Azure)"
-  - "Enterprise-scale infrastructure management"
+  - "6+ months of hands-on industry experience"
+  - "Strong grasp of React.js, GSAP, Three.js"
+  - "Developed 8+ real-world projects"
 ```
 
 </div>
