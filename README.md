@@ -95,6 +95,10 @@ experience:
         <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" width="100" height="100" alt="C#">
         <br><strong>API Integration</strong>
       </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" width="225" height="225" alt="Wordpress">
+        <br><strong>Wordpress/strong>
+      </td>
         </tr>
   </table>
 </div>
