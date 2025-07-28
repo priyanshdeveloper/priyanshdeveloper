@@ -54,48 +54,48 @@ experience:
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" width="225" height="225" alt="C" />
-        <br><strong>C</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="225" height="225" alt="C#">
-        <br><strong>C#</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf"  width="225" height="225" alt="HTML">
-        <br><strong>HTML5</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2"  width="225" height="225" alt="CSS">
-        <br><strong>CSS3</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953"  width="225" height="225" alt="JavaScript">
-        <br><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69" width="225" height="225" alt="React">
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9" width="225" height="225" alt="Three">
-        <br><strong>React + Three Fiber</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" width="225" height="225" alt="GSAP">
-        <br><strong>GSAP</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" width="225" height="225" alt="API">
-        <br><strong>API Integration</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" width="225" height="225" alt="Wordpress">
-        <br><strong>Wordpress/strong>
-      </td>
-        </tr>
+   <tr>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" style="width: 150px; height: 150px;" alt="C" />
+    <br><strong>C</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121" style="width: 150px; height: 150px;" alt="C#" />
+    <br><strong>C#</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/ea194ff0-2363-436b-ae30-a477ec3a64cf" style="width: 150px; height: 150px;" alt="HTML" />
+    <br><strong>HTML5</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/d92bbd03-ba0f-4b4b-8d84-ef96c92256e2" style="width: 150px; height: 150px;" alt="CSS" />
+    <br><strong>CSS3</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/f54a90e8-58df-4d21-8935-99c7fe3e7953" style="width: 150px; height: 150px;" alt="JavaScript" />
+    <br><strong>JavaScript</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/c5cc02e8-9ce1-441c-8e72-82c26beb0e69" style="width: 150px; height: 150px;" alt="React" />
+    <br><strong>React</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9" style="width: 150px; height: 150px;" alt="Three" />
+    <br><strong>React + Three Fiber</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" style="width: 150px; height: 150px;" alt="GSAP" />
+    <br><strong>GSAP</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" style="width: 150px; height: 150px;" alt="API" />
+    <br><strong>API Integration</strong>
+  </td>
+  <td align="center" width="100">
+    <img src="https://github.com/user-attachments/assets/2239c9be-1381-40b3-9174-61a40a80c339" style="width: 150px; height: 150px;" alt="Wordpress" />
+    <br><strong>Wordpress</strong>
+  </td>
+</tr>
   </table>
 </div>
 
