@@ -91,6 +91,10 @@ experience:
         <img src="https://github.com/user-attachments/assets/ea93176d-00c2-4475-ac98-1f44713619bf" width="100" height="100" alt="C#">
         <br><strong>GSAP</strong>
       </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/70218022-7824-446c-93f8-d7e60921f6b1" width="100" height="100" alt="C#">
+        <br><strong>API Integration</strong>
+      </td>
         </tr>
   </table>
 </div>
