@@ -61,7 +61,11 @@ experience:
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="80" height="80" alt="C#"80>
+        <img src="https://github.com/user-attachments/assets/d4be8359-cc82-4465-926a-f8ac250220f7" width="80" height="80" alt="C" />
+        <br><strong>C</strong>
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="80" height="80" alt="C#">
         <br><strong>C#</strong>
       </td>
         </tr>
