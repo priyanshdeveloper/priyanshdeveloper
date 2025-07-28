@@ -22,7 +22,7 @@ current_focus:
   - "Integrating APIs and Component Architecture"
 experience:
   - "6+ months of hands-on industry experience"
-  - "Strong grasp of React.js, GSAP, Three.js"
+  - "Strong grasp of React.js, GSAP, Three Fiber"
   - "Developed 8+ real-world projects"
 ```
 </div>
@@ -119,9 +119,9 @@ experience:
 
 | 🔭 **Currently Working On** | 🌱 **Learning & Exploring** | 👯 **Open to Collaborate** |
 |:---:|:---:|:---:|
-| Multi-Cloud Infrastructure Automation | Advanced Kubernetes Patterns & GitOps | Open Source DevOps Tools |
-| Microservices Architecture | Service Mesh Technologies | Cloud-Native Applications |
-| Zero-Downtime Deployments | AI/ML Operations (MLOps) | Infrastructure Security |
+| API Integration (Data passing, fetching with ID & token, error handling) | AI Models for Faster Error Resolution | Frontend Projects using React |
+| Node.js, Express & MongoDB Backend | Node.js, Express & MongoDB Backend | API Integration & UI/UX Improvements |
+| Error Handling & Debugging | Component Reusability & Performance | MERN Stack Based Applications |
 
 </div>
 
