@@ -61,7 +61,7 @@ experience:
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="225" height="224" alt="C#" />
+        <img src="https://github.com/user-attachments/assets/a53acdb5-5b35-4254-bd9c-3a86d5fa6121"  width="50" height="50" alt="C#" />
 " width="50" height="50" alt="C#"/>
         <br><strong>Linux</strong>
       </td>
