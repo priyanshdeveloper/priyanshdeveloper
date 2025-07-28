@@ -84,7 +84,7 @@ experience:
         <br><strong>React</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://github.com/user-attachments/assets/d96943cb-8896-436d-8c9f-bf2eb56da875"  width="100" height="100" alt="C#">
+        <img src="https://github.com/user-attachments/assets/d52eb1d1-8e1a-4e60-898d-7e33782d1de9"  width="100" height="100" alt="C#">
         <br><strong>React + Three Fiber</strong>
       </td>
         </tr>
