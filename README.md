@@ -154,7 +154,7 @@ experience:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
 <div align="center">
-  <img src="(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20frontend%20is%20not%20just%20code,%20it's%20the%20art%20of%20creating%20fluid%20experiences%20with%20precision%20and%20emotion.&author=Frontend%20Developer)"
+  <img src="![Priyanshu](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20frontend%20is%20not%20just%20code,%20it's%20the%20art%20of%20creating%20fluid%20experiences%20with%20precision%20and%20emotion.&author=Frontend%20Developer)"
  />
 </div>
 
